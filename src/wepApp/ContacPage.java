@@ -5,4 +5,8 @@ public class ContacPage {
     //twitter
     //instagram
 
+    //youtube
+    //email
+
+
 }
